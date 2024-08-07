@@ -1,0 +1,10 @@
+Name: Snow
+ISBN: 56KOP
+Borrow Date: 2024/05/06
+Return Date: 2024/06/05
+----------------------------
+Name: White
+ISBN: 564KIU
+Borrow Date: 2024/06/03
+Return Date: 2024/06/06
+----------------------------

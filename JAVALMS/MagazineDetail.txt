@@ -1,0 +1,14 @@
+Magazine Name: Hi!! Magazine
+Magazine Author: Anura Edirisinha
+Magazine ISBN: 123OP78
+Magazine Price: 456.0
+Magazine Publisher Name: Anura printers
+Magazine Released Year: 2016
+----------------------------
+Magazine Name: LMD
+Magazine Author: Hiran Hewavisenti
+Magazine ISBN: 4578HYOP
+Magazine Price: 250.0
+Magazine Publisher Name: Media Services (Pvt) Ltd
+Magazine Released Year: 1995
+----------------------------

@@ -1,0 +1,12 @@
+Newspaper Name: The Sunday Morning
+Newspaper ISBN: 45JUI5
+Newspaper Price: 250.0
+Newspaper Publisher Name: Dilith Jayaweera
+Newspaper Released Year: 2015
+----------------------------
+Newspaper Name: Dinamina
+Newspaper ISBN: 45JUT8
+Newspaper Price: 120.0
+Newspaper Publisher Name: Associated Newspapers of Ceylon
+Newspaper Released Year: 1909
+----------------------------

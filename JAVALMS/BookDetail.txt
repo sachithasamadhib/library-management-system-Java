@@ -1,0 +1,14 @@
+Name: Harry Potter and the Deathly Hallows
+Author: J. K. Rowling
+ISBN: 0-7475-4624-X
+Price: 56.0
+Publisher Name: Bloomsbury(UK)
+Released Year: 2003
+----------------------------
+Name: Harry Potter and Goblet of fire
+Author: J. K. Rowling
+ISBN: 0-7475-4624-P
+Price: 53.0
+Publisher Name: Bloomsbury(uk)
+Released Year: 2003
+----------------------------
